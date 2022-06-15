@@ -1,0 +1,156 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\luqui\Desktop\Circuitos Integrados\Projeto1\Circuitos_Integrados
+T_opt
+VX3]43]K@K?6UD=A@2Z^;b3
+04 6 4 work ffd_tb test 1
+=1-9829a6e6939b-62a651d4-352-3b8c
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OL;O;10.1d;51
+Eclock_generator
+Z1 w1655056402
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\luqui\Desktop\Circuitos Integrados\Projeto1\Circuitos_Integrados
+Z5 8C:/Users/luqui/Desktop/Circuitos Integrados/Projeto1/Circuitos_Integrados/clock_generator.vhd
+Z6 FC:/Users/luqui/Desktop/Circuitos Integrados/Projeto1/Circuitos_Integrados/clock_generator.vhd
+l0
+L4
+V3P3mhojPLDXS_RGP:fFDN0
+Z7 OL;C;10.1d;51
+32
+Z8 !s108 1655059944.924000
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/luqui/Desktop/Circuitos Integrados/Projeto1/Circuitos_Integrados/clock_generator.vhd|
+Z10 !s107 C:/Users/luqui/Desktop/Circuitos Integrados/Projeto1/Circuitos_Integrados/clock_generator.vhd|
+Z11 o-work work
+Z12 tExplicit 1
+!s100 ^PiTE4bZLjdOi^2fic@eO3
+!i10b 1
+Atest
+R2
+R3
+DEx4 work 15 clock_generator 0 22 3P3mhojPLDXS_RGP:fFDN0
+l20
+L18
+VX><FXY_ij:4f8;R?kzOY:3
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!s100 SToQ2c^?6KcNA1jh`6Gi92
+!i10b 1
+Effd
+Z13 w1655059623
+R2
+R3
+R4
+Z14 8C:/Users/luqui/Desktop/Circuitos Integrados/Projeto1/Circuitos_Integrados/ffd.vhd
+Z15 FC:/Users/luqui/Desktop/Circuitos Integrados/Projeto1/Circuitos_Integrados/ffd.vhd
+l0
+L5
+VQgPKX^3`M8gZkVUVm>]P<3
+R7
+32
+Z16 !s108 1655059948.015000
+Z17 !s90 -reportprogress|300|-work|work|C:/Users/luqui/Desktop/Circuitos Integrados/Projeto1/Circuitos_Integrados/ffd.vhd|
+Z18 !s107 C:/Users/luqui/Desktop/Circuitos Integrados/Projeto1/Circuitos_Integrados/ffd.vhd|
+R11
+R12
+!s100 8jHL6@WLAKFmI`WB3h5:?3
+!i10b 1
+Aprocessor
+R2
+R3
+DEx4 work 3 ffd 0 22 QgPKX^3`M8gZkVUVm>]P<3
+l13
+L12
+VZez]iKl]<j7a6o:CDPLRz0
+R7
+32
+R16
+R17
+R18
+R11
+R12
+!s100 3D:B_k2:mTCL60hLETO6I1
+!i10b 1
+Effd_stimuli
+Z19 w1655067070
+Z20 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R2
+R3
+R4
+Z21 8C:/Users/luqui/Desktop/Circuitos Integrados/Projeto1/Circuitos_Integrados/ffd_stimuli.vhd
+Z22 FC:/Users/luqui/Desktop/Circuitos Integrados/Projeto1/Circuitos_Integrados/ffd_stimuli.vhd
+l0
+L6
+VYMiVGYXXRl`SEEh:5No2j1
+R7
+32
+Z23 !s108 1655067076.388000
+Z24 !s90 -reportprogress|300|-work|work|C:/Users/luqui/Desktop/Circuitos Integrados/Projeto1/Circuitos_Integrados/ffd_stimuli.vhd|
+Z25 !s107 C:/Users/luqui/Desktop/Circuitos Integrados/Projeto1/Circuitos_Integrados/ffd_stimuli.vhd|
+R11
+R12
+!s100 e0oWel3>WLWY6INNH[=2L3
+!i10b 1
+Aarch
+R20
+R2
+R3
+DEx4 work 11 ffd_stimuli 0 22 YMiVGYXXRl`SEEh:5No2j1
+l32
+L18
+V_8ZUENMQ2nH[@hGD:Q]WL3
+R7
+32
+R23
+R24
+R25
+R11
+R12
+!s100 aga?zUlSi<XG;B_>Q`PFH2
+!i10b 1
+Effd_tb
+Z26 w1655059872
+R20
+R2
+R3
+R4
+Z27 8C:/Users/luqui/Desktop/Circuitos Integrados/Projeto1/Circuitos_Integrados/ffd_tb.vhd
+Z28 FC:/Users/luqui/Desktop/Circuitos Integrados/Projeto1/Circuitos_Integrados/ffd_tb.vhd
+l0
+L5
+VXdmYilbS`WNT?K[g?i=EC0
+R7
+32
+Z29 !s108 1655067080.758000
+Z30 !s90 -reportprogress|300|-work|work|C:/Users/luqui/Desktop/Circuitos Integrados/Projeto1/Circuitos_Integrados/ffd_tb.vhd|
+Z31 !s107 C:/Users/luqui/Desktop/Circuitos Integrados/Projeto1/Circuitos_Integrados/ffd_tb.vhd|
+R11
+R12
+!s100 7_3bEngSgG9Tl`CL>RVGm2
+!i10b 1
+Atest
+R20
+R2
+R3
+DEx4 work 6 ffd_tb 0 22 XdmYilbS`WNT?K[g?i=EC0
+l28
+L9
+Vjg@ng@ih<OMFgm>jMAo5b3
+R7
+32
+R29
+R30
+R31
+R11
+R12
+!s100 Yg71TO5oLHf=e0?E7^_cG2
+!i10b 1
