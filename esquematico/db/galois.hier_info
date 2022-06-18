@@ -1,0 +1,123 @@
+|galois
+res => ffd:gal:11:elses:outros.reset
+res => ffd:gal:10:elses:outros.reset
+res => ffd:gal:9:elses:outros.reset
+res => ffd:gal:8:elses:outros.reset
+res => ffd:gal:7:coef_b:b.reset
+res => ffd:gal:6:elses:outros.reset
+res => ffd:gal:5:elses:outros.reset
+res => ffd:gal:4:elses:outros.reset
+res => ffd:gal:3:coef_a:a.reset
+res => ffd:gal:2:elses:outros.reset
+res => ffd:gal:1:elses:outros.reset
+res => ffd:gal:0:LSB:lsbb.reset
+clk => ffd:gal:11:elses:outros.clock
+clk => ffd:gal:10:elses:outros.clock
+clk => ffd:gal:9:elses:outros.clock
+clk => ffd:gal:8:elses:outros.clock
+clk => ffd:gal:7:coef_b:b.clock
+clk => ffd:gal:6:elses:outros.clock
+clk => ffd:gal:5:elses:outros.clock
+clk => ffd:gal:4:elses:outros.clock
+clk => ffd:gal:3:coef_a:a.clock
+clk => ffd:gal:2:elses:outros.clock
+clk => ffd:gal:1:elses:outros.clock
+clk => ffd:gal:0:LSB:lsbb.clock
+q[0] <= ffd:gal:0:LSB:lsbb.q
+q[1] <= ffd:gal:1:elses:outros.q
+q[2] <= ffd:gal:2:elses:outros.q
+q[3] <= ffd:gal:3:coef_a:a.q
+q[4] <= ffd:gal:4:elses:outros.q
+q[5] <= ffd:gal:5:elses:outros.q
+q[6] <= ffd:gal:6:elses:outros.q
+q[7] <= ffd:gal:7:coef_b:b.q
+q[8] <= ffd:gal:8:elses:outros.q
+q[9] <= ffd:gal:9:elses:outros.q
+q[10] <= ffd:gal:10:elses:outros.q
+q[11] <= ffd:gal:11:elses:outros.q
+
+
+|galois|ffd:\gal:11:elses:outros
+clock => q~reg0.CLK
+d => q~reg0.DATAIN
+reset => q~reg0.PRESET
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|galois|ffd:\gal:10:elses:outros
+clock => q~reg0.CLK
+d => q~reg0.DATAIN
+reset => q~reg0.PRESET
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|galois|ffd:\gal:9:elses:outros
+clock => q~reg0.CLK
+d => q~reg0.DATAIN
+reset => q~reg0.PRESET
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|galois|ffd:\gal:8:elses:outros
+clock => q~reg0.CLK
+d => q~reg0.DATAIN
+reset => q~reg0.PRESET
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|galois|ffd:\gal:7:coef_b:b
+clock => q~reg0.CLK
+d => q~reg0.DATAIN
+reset => q~reg0.PRESET
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|galois|ffd:\gal:6:elses:outros
+clock => q~reg0.CLK
+d => q~reg0.DATAIN
+reset => q~reg0.PRESET
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|galois|ffd:\gal:5:elses:outros
+clock => q~reg0.CLK
+d => q~reg0.DATAIN
+reset => q~reg0.PRESET
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|galois|ffd:\gal:4:elses:outros
+clock => q~reg0.CLK
+d => q~reg0.DATAIN
+reset => q~reg0.PRESET
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|galois|ffd:\gal:3:coef_a:a
+clock => q~reg0.CLK
+d => q~reg0.DATAIN
+reset => q~reg0.PRESET
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|galois|ffd:\gal:2:elses:outros
+clock => q~reg0.CLK
+d => q~reg0.DATAIN
+reset => q~reg0.PRESET
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|galois|ffd:\gal:1:elses:outros
+clock => q~reg0.CLK
+d => q~reg0.DATAIN
+reset => q~reg0.PRESET
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|galois|ffd:\gal:0:LSB:lsbb
+clock => q~reg0.CLK
+d => q~reg0.DATAIN
+reset => q~reg0.PRESET
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

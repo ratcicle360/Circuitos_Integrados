@@ -1,0 +1,11 @@
+#
+#
+# 
+# 06/17/22 18:21:58
+set_working_dir "C:/Users/luqui/Desktop/Circuitos Integrados/Projeto1/Circuitos_Integrados/esquematico"
+read  { "C:/Users/luqui/Desktop/Circuitos Integrados/Projeto1/Circuitos_Integrados/ffd.vhd" }
+### Previous Command Failed
+
+read  { "C:/Users/luqui/Desktop/Circuitos Integrados/Projeto1/Circuitos_Integrados/ffd.vhd" }
+### Previous Command Failed
+
